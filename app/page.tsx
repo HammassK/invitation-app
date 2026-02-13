@@ -57,7 +57,7 @@ export default function Home() {
 
             <div className="rounded-2xl bg-white p-4 shadow-inner">
               <img
-                src="/valentine-yes.gif"
+                src="/invitation-app/valentine-yes.gif"
                 alt="Celebration"
                 className="mx-auto w-[240px] h-auto"
               />
@@ -90,7 +90,7 @@ export default function Home() {
 
             <div className="rounded-2xl bg-white p-4 shadow-inner">
               <img
-                src="/valentine-yes.gif"
+                src="/invitation-app/valentine-yes.gif"
                 alt="Celebration"
                 className="mx-auto w-[240px] h-auto"
               />
