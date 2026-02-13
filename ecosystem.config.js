@@ -8,15 +8,15 @@ module.exports = {
       exec_mode: "cluster",
       env: {
         NODE_ENV: "production",
-        PORT: 3003,
+        PORT: 3008,
       },
       env_production: {
         NODE_ENV: "production",
-        PORT: 3003,
+        PORT: 3008,
       },
       env_development: {
         NODE_ENV: "development",
-        PORT: 3003,
+        PORT: 3008,
       },
       error_file: "./logs/err.log",
       out_file: "./logs/out.log",
